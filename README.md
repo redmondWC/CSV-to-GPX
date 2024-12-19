@@ -10,5 +10,6 @@ This python notebook script takes in a CSV log of time and latitude,longitude co
   * Confirm UTC_TO_PST shift is relevant for data collection
   * Set Timestamp format
 
-2. Modify Hours, Minutes and Seconds to extract from CSV files
-3. Set "Serial_Number for "bus" of interest for row[0] value
+2.Modify Hours, Minutes and Seconds to extract from CSV files
+
+3.Set "Serial_Number for "bus" of interest for row[0] value
