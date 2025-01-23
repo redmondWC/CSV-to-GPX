@@ -8,8 +8,10 @@ This python notebook script takes in a CSV log of time and latitude,longitude co
   * Set CSV file name
   * Set GPX file name
   * Confirm UTC_TO_PST shift is relevant for data collection
-  * Set Timestamp format
+  * Set/confirm Timestamp format
 
-2.Modify Hours, Minutes and Seconds to extract from CSV files
+2.Set start time (hh, mm) and end time (hh, mm)
 
 3.Set "Serial_Number for "bus" of interest for row[0] value
+
+4. set/confirm to reverse the order of the input file. CSV file is reverse cronological, as log files appends at the top of the csv file. The Reverse_timestamp flag will reverse this data.
